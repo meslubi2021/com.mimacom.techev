@@ -15,7 +15,7 @@
     "@angular/cdk": "~8.2.3",
     "@angular/common": "~8.2.14",
     "@angular/compiler": "~8.2.14",
-    "@angular/core": "~8.2.14",
+    "@angular/core": "~10.2.5",
     "@angular/forms": "~8.2.14",
     "@angular/material": "^8.2.3",
     "@angular/platform-browser": "~8.2.14",
@@ -26,9 +26,9 @@
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.803.21",
-    "@angular/cli": "~8.3.21",
-    "@angular/compiler-cli": "~8.2.14",
+    "@angular-devkit/build-angular": "~18.0.6",
+    "@angular/cli": "~18.0.6",
+    "@angular/compiler-cli": "~18.0.5",
     "@angular/language-service": "~8.2.14",
     "@types/node": "~8.9.4",
     "@types/jasmine": "~3.3.8",
@@ -41,7 +41,7 @@
     "karma-coverage-istanbul-reporter": "~2.0.1",
     "karma-jasmine": "~2.0.1",
     "karma-jasmine-html-reporter": "^1.4.0",
-    "protractor": "~5.4.0",
+    "protractor": "~5.4.2",
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
